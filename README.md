@@ -21,10 +21,10 @@ This PowerShell script recursively reads all files in a specified folder and its
 
    ```powershell
    # Define the starting folder path
-   $folderPath = "C:\Users\mikec\ShadowDrive2\SKEMA"
+   $folderPath = "C:\Users\myhomepath\ShadowDrive"
 
    # Define the error log file path
-   $errorLogPath = "C:\Users\mikec\error_log.txt"
+   $errorLogPath = "C:\Users\myhomepath\error_log.txt"
    ```
 
 2. **Run the script:**
